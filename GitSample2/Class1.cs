@@ -8,5 +8,6 @@ namespace GitSample2
 {
   public  class Class1
     {
+        int abc = 0;
     }
 }
